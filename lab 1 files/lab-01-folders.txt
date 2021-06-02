@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 nataleeirwin  staff   0 Apr  1 11:32 lab-01-folders.txt
+drwxr-xr-x  3 nataleeirwin  staff  96 Apr  1 11:21 p1
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p2
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p3
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p4
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p5
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p6
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p7
+drwxr-xr-x  2 nataleeirwin  staff  64 Apr  1 11:09 p8
